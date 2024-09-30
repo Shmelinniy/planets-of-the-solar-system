@@ -9,5 +9,6 @@
       <br>Солнце, огромная звезда, освещающая и согревающая все, что находится вокруг.
       </font>
    <img src=’система.jpg’ hspace=’30’ vspace=’20’>
+      <body background="background.jpg">
   </body>
 </html>
